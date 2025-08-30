@@ -1,5 +1,0 @@
-This is one.txt
-
-I am changed now
-
-my UI
